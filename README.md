@@ -1,5 +1,5 @@
 # Stress-Strain-Curve-in-SHPB
-It is a simple code which will give you the Stress-Strain Curve(True and Engineering both) from strain gage voltage data in a Split Hopkinson Pressure Bar experiment on a non-compressible specimen.
+It is a simple code which will give you the Stress-Strain Curve(True and Engineering both) from strain gage voltage data in a Split Hopkinson Pressure Bar experiment on a non-compressible specimen. /n
 Steps to get the Stress Strain Curve:
 1. Feed the strain gage data into the code when prompted.
 2. Feed in the setup specifications when asked like Excitation Voltage, Length of Specimen, Sampling rate etc.
